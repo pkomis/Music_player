@@ -1,0 +1,16 @@
+C:\Users\komis\source\repos\player\player\bin\Debug\player.exe.config
+C:\Users\komis\source\repos\player\player\bin\Debug\player.exe
+C:\Users\komis\source\repos\player\player\bin\Debug\player.pdb
+C:\Users\komis\source\repos\player\player\bin\Debug\Interop.WMPLib.dll
+C:\Users\komis\source\repos\player\player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\komis\source\repos\player\player\obj\Debug\player.csproj.AssemblyReference.cache
+C:\Users\komis\source\repos\player\player\obj\Debug\player.csproj.SuggestedBindingRedirects.cache
+C:\Users\komis\source\repos\player\player\obj\Debug\Interop.WMPLib.dll
+C:\Users\komis\source\repos\player\player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\komis\source\repos\player\player\obj\Debug\player.csproj.ResolveComReference.cache
+C:\Users\komis\source\repos\player\player\obj\Debug\player.Form1.resources
+C:\Users\komis\source\repos\player\player\obj\Debug\player.Properties.Resources.resources
+C:\Users\komis\source\repos\player\player\obj\Debug\player.csproj.GenerateResource.cache
+C:\Users\komis\source\repos\player\player\obj\Debug\player.csproj.CoreCompileInputs.cache
+C:\Users\komis\source\repos\player\player\obj\Debug\player.exe
+C:\Users\komis\source\repos\player\player\obj\Debug\player.pdb
